@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    background-color: sandybrown;
+}
+
+.board {
+    display: flex;
+    flex-wrap: wrap;
+    width: 410px;
+}
+
+.field {
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+}
+
+.field_active {
+    background-image: url('../img/goblin.png');
+    background-size: contain;
+}
