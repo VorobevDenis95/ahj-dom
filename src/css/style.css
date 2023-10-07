@@ -1,10 +1,10 @@
 body {
     display: flex;
     justify-content: space-around;
-    background-color: sandybrown;
 }
 
 .board {
+    background-color: aquamarine;
     display: flex;
     flex-wrap: wrap;
     width: 410px;
