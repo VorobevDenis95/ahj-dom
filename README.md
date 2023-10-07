@@ -1,1 +1,1 @@
-![CI](https://github.com/vorobevdenis95/ahj-dom/actions/workflows/web.yml/badge.svg)
+[![Build status](https://ci.appveyor.com/api/projects/status/cb3s5v7jqhcukxft?svg=true)](https://ci.appveyor.com/project/VorobevDenis95/ahj-dom)
