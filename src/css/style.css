@@ -7,7 +7,7 @@ body {
     background-color: aquamarine;
     display: flex;
     flex-wrap: wrap;
-    width: 410px;
+    width: 411px;
 }
 
 .field {
